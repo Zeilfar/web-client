@@ -1,0 +1,10 @@
+{
+  "name": "web-client",
+  "version": "0.1.0",
+  "description": "Web client in NodeJs",
+  "author": "Zeil <far.vilain@gmail.com>",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
